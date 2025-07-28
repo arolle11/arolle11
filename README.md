@@ -7,6 +7,6 @@ Salut 👋🏾 je suis **Arolle Fona**, développeuse passionnée par le **front
 ---
 ### 📬 Me contacter
 📧 [arollefona11@gmail.com](mailto:arollefona11@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/tonprofil) | [Twitter](https://twitter.com/tonprofil)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arolle-fona-300705188/) | [Twitter](https://x.com/FonaArolle)  
 
 ---
