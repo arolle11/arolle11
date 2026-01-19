@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Arolle Fona
 
-### Développeuse Frontend Web & Mobile basée à Douala, Cameroun 🇨🇲
+### Développeuse Web & Mobile basée à Douala, Cameroun 🇨🇲
 
 Salut 👋🏾 je suis **Arolle Fona**, développeuse passionnée par le **frontend web et mobile**. Je suis également **co-fondatrice de [Dev Girls](https://www.linkedin.com/company/dev-girls-cameroon/)**, une communauté dynamique dédiée à encourager et soutenir les femmes passionnées de programmation en particulier et la tech en général.
 
